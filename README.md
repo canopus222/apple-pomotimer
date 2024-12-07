@@ -1,4 +1,4 @@
-![Apple-pomotimer](https://cdn.glitch.global/b1f148e8-57f3-4366-9049-0dcfc3e36928/apple-pomotimer.jpg?v=1733207361428)
+![Apple-pomotimer](https://cdn.glitch.global/b1f148e8-57f3-4366-9049-0dcfc3e36928/apple-pomotimer%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E4%BB%98.png?v=1733585139646)
 
 
 # Service URL
@@ -35,3 +35,4 @@ Qiitaのアドベントカレンダーの企画の一つ[クソアプリ Advent 
 
 
 # Articles created for app development
+[【個人開発mini.vol4】Qiita企画のためのくそアプリ制作](https://qiita.com/wa-chan222/items/bb050ee5908e3b623486)
